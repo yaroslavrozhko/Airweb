@@ -1,0 +1,278 @@
+.container{
+  width: 1296px;
+  margin: 0 auto;
+}
+.text__title{
+  font-family: "Quicksand", sans-serif;
+font-size: 22px;
+font-weight: 600;
+line-height: 26px;
+margin-bottom: 32px;
+}
+.head{
+  background-color: #DBF3ED;
+  opacity: 0.5;
+  position: absolute;
+  left: 0; 
+  right: 0;
+}
+.head__logo{
+  width: 42px;
+  padding-block: 15px;
+}
+.logo{
+  width: 72px;
+  margin-top: 15px;
+  position: absolute;
+  top: 20px;
+  right: 50px;
+}
+.hero {
+	background-image: url(../img/foggy-forest-landscape-0410-5710001.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+  padding-block: 100px;
+}
+.hero__wraper{
+  width: 1296px;
+  height: 602px;
+  background-color: #DBF3ED;
+  margin: 0 auto;
+  margin-top: 31px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  position: relative;
+  opacity: 0.5;
+}
+.hero__content{
+  width: 712px;
+  padding-inline: 94px  110px;
+  
+}
+
+.hero__title{
+  font-family: "Quicksand", sans-serif;
+font-size: 56px;
+font-weight: 700;
+line-height: 67px;
+color: #000000;
+margin-bottom: 32px;
+}
+.hero__text{
+  font-family: "Quicksand", sans-serif;
+font-size: 22px;
+font-weight: 600;
+line-height: 26px;
+margin-bottom: 32px;
+}
+.graf{
+  width: 100%;
+  height: 800px;
+  background-color: white;
+}
+.info{
+  padding-block: 80px;
+  background-image: url(../img/nature-1384554.jpg);
+  background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.info__content{
+  display: grid;
+  grid-template-columns: repeat(4 , 1fr);
+}
+
+.info__content-card{
+  width: 306px;
+  border-radius: 8px;
+  position: relative;
+}
+
+.container__card-info{
+  width: 274px;
+  margin-inline: auto;
+}
+.info__content-card-title{
+  font-family: "Quicksand", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 28px;
+  color: #000;
+  margin-top: 16px;
+
+}
+.info__content-card-subtitle{
+  font-family: "Quicksand", sans-serif;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+color: #000;
+margin-top: 28px;
+padding-bottom: 20px;
+}
+.info__content-card-text{
+  font-family: "Quicksand", sans-serif;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+color: #0F8277;
+position: absolute;
+top: 93%;
+left: 16px;
+}
+.info__title{
+  font-family: "Quicksand", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48px;
+  margin-bottom: 12px;
+}
+.info__subtitle{
+  font-family: "Quicksand", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  margin-bottom: 40px;
+
+}
+.design {
+  background-image: url(../img/fog-2-1410205.jpg);
+  background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+  padding-top: 82px;
+  position: relative;
+  padding-bottom: 100px;
+}
+.design__wraper{
+  display: grid;
+  grid-template-columns: repeat(3 , 1fr);
+  gap: 20px;
+
+}
+.design__title {
+      
+  font-family: "Quicksand", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48px;
+  margin-bottom: 12px;
+  padding-block: 19px;
+      margin-bottom: 40px;
+      text-align: center;
+
+  }
+  
+
+.design__title__wraper {
+      margin-top: 38px;
+      display: flex;
+      flex-wrap: wrap;
+      column-gap: 46px;
+      padding-bottom: 138px;
+     
+    }
+
+  .design__wraper-position{
+    background-color: white;
+    border-radius: 10%;
+    margin-bottom: 70px;
+    margin-inline: 30px;
+  }
+
+.graf__wraper{
+display: flex;
+justify-content: left;
+column-gap: 40px;
+}
+.graf__title{
+  margin-block: 20px;
+  font-family: "Quicksand", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48px;
+  margin-bottom: 12px;
+  padding-block: 19px;
+      margin-bottom: 40px;
+      text-align: center;
+}
+.map__title{
+  margin-block: 20px;
+  font-family: "Quicksand", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48px;
+  margin-bottom: 12px;
+  padding-block: 19px;
+      margin-bottom: 40px;
+      text-align: center;
+}
+.map__img{
+  margin-bottom: 60px;
+}
+
+
+
+
+
+  .foot{
+    background-color: #DBF3ED;
+    opacity: 0.5;
+    position: absolute;
+    left: 0; 
+    right: 0;
+    bottom: 0px; 
+    padding-block: 20px;
+    display: flex;
+    justify-content: center;
+    column-gap: 160px;
+  }
+
+  .foot__text{
+    font-family: "Quicksand", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    color: #000;
+  
+  }
+
+  .foot__link:hover{
+    color:blue;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.info__content-card:nth-child(1){
+  background-color: 	#00FF00;
+  opacity: 0.8;
+}
+.info__content-card:nth-child(2){
+  background-color: 	#FFFF00;
+  opacity: 0.8;
+}
+.info__content-card:nth-child(3){
+  background-color: 	#FF8C00;
+  opacity: 0.8;
+}
+.info__content-card:nth-child(4){
+  background-color: 	#FF0000;
+  opacity: 0.8;
+}
