@@ -42,7 +42,7 @@
   right: 50px;
 }
 .hero {
-  background-image: url(../img/foggy-forest-landscape-0410-5710001.jpg);
+  background-image: url(../img/foggy-forest-landscape-0410-5710001.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -86,7 +86,7 @@
 }
 .info {
   padding-block: 80px;
-  background-image: url(../img/nature-1384554.jpg);
+  background-image: url(../img/nature-1384554.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -146,7 +146,7 @@
   margin-bottom: 40px;
 }
 .design {
-  background-image: url(../img/fog-2-1410205.jpg);
+  background-image: url(../img/fog-2-1410205.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
