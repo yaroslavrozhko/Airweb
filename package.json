@@ -2,5 +2,8 @@
   "dependencies": {
     "chart.js": "^4.4.9",
     "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.3"
   }
 }
